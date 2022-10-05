@@ -6,3 +6,5 @@ RegisterCommand("removerobjeto", function()
         end
     end
 end, false)
+
+-- Leal#9186
