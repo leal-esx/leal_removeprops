@@ -1,6 +1,5 @@
 # leal_removeprops
 
-FiveM ESX Script
 
 **Comando para remover props ( objetos ) " bugados " no jogador**
 
